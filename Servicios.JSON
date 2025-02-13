@@ -1,0 +1,27 @@
+{
+    
+        "Servicios":{
+            "Servicio": "Internet_Fibra_Optica",
+            "Duracion": "Un año",
+            "Precio": "30$",
+            "Megas": "40 Megas"
+        ,
+    
+        
+        "Servicio":"Plan Pospago",
+        "Duracion":"6 Meses",
+        "Precio":"15$",
+        "Cantidad":"20gb"
+        ,
+        
+            "Servicio":"Plan Prepago",
+            "Duracion":"6 Meses",
+            "Precio":"17$",
+            "Cantidad":"25gb"
+        }    
+        
+
+    
+    
+    
+}
